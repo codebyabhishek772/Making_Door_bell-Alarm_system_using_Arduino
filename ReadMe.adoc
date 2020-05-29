@@ -1,10 +1,10 @@
-:Author: Abhishek_s1s26
+:Author: Abhishek_s1s26 (Abhishek Biswas)
 :Email: {AuthorEmail}
 :Date: 29/05/2020
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: Making Door bell / Alarm system using Arduino and Ultrasonic sensor 
 
 Describe your project
 
